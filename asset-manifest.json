@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/janvier.mbilizi/static/css/main.5f361e03.chunk.css",
+    "main.js": "/janvier.mbilizi/static/js/main.78445a87.chunk.js",
+    "main.js.map": "/janvier.mbilizi/static/js/main.78445a87.chunk.js.map",
+    "runtime-main.js": "/janvier.mbilizi/static/js/runtime-main.68fdc275.js",
+    "runtime-main.js.map": "/janvier.mbilizi/static/js/runtime-main.68fdc275.js.map",
+    "static/js/2.513869a6.chunk.js": "/janvier.mbilizi/static/js/2.513869a6.chunk.js",
+    "static/js/2.513869a6.chunk.js.map": "/janvier.mbilizi/static/js/2.513869a6.chunk.js.map",
+    "index.html": "/janvier.mbilizi/index.html",
+    "precache-manifest.5d9c0a00f3ea85171f9574d366d4b988.js": "/janvier.mbilizi/precache-manifest.5d9c0a00f3ea85171f9574d366d4b988.js",
+    "service-worker.js": "/janvier.mbilizi/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/janvier.mbilizi/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.513869a6.chunk.js.LICENSE.txt": "/janvier.mbilizi/static/js/2.513869a6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/janvier.mbilizi/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68fdc275.js",
+    "static/js/2.513869a6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.78445a87.chunk.js"
+  ]
+}
