@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/janvier.mbilizi/precache-manifest.5d9c0a00f3ea85171f9574d366d4b988.js"
+  "/janvier.mbilizi/precache-manifest.6febd4216b9b661e604a675f9b316cc2.js"
 );
 
 self.addEventListener('message', (event) => {
